@@ -1,0 +1,26 @@
+div {
+    color: rgb(111, 192, 7);
+    padding: 50px;
+    text-align: center;
+}
+
+div:hover {
+    background-color: rgba(243, 7, 7, 0.144);
+    color: rgb(6, 227, 161);
+    margin: 50px;
+}
+
+input:focus {
+    background-color: black;
+    color: rgb(5, 182, 241);
+}
+
+p:active {
+    color: rgb(237, 136, 12);
+}
+
+img:hover {
+    width: 100px;
+    height: 100px;
+    opacity: 0.5;
+}
