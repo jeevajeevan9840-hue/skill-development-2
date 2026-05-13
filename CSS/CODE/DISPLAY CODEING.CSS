@@ -1,0 +1,22 @@
+/* Display logic from Screenshot 86 */
+.txt1 { display: block; }
+.txt2 { display: flex; }
+.txt3 { display: grid; }
+.txt4 { display: inline; }
+.txt5 { display: inline-block; }
+
+P{
+height: 250px;
+width: 250px;
+}
+span {
+background-color: bisque;
+padding: 10px;
+}
+
+.table,
+span,
+img
+{height: 250px;
+width: 250px;;}
+
