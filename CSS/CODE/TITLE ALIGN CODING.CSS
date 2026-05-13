@@ -1,0 +1,24 @@
+p {
+    background-color: #cc8ff87d;
+    color: rgb(23, 121, 208);
+}
+
+h1 {
+    text-align: left;
+}
+
+h2 {
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: justify;
+}
+
+.a {
+    text-align-last: left;
+}
